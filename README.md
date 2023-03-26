@@ -10,6 +10,7 @@ I am a 2nd year CS student from India studying at VIT, Chennai. I have been pass
 
 - :school: 2nd year `CS student at VIT university`
 - :nerd_face: Always `learning new things`
+- :mailbox: Contact me `atharvarai78@gmail.com`
 - :thinking: I’m currently open for a new `job opportunity`
 - 👨‍💻 Currently learning `React Native`
 - 📝 Solving `DSA` problems on  `LeetCode` 
