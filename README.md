@@ -8,7 +8,7 @@ I am a final year CS student from India studying at VIT, Chennai. I have been pa
 <br><br>
 
 
-- :school: 3rd year `CS student at VIT university`
+- :school: Final year `CS student at VIT university`
 - :nerd_face: Always `learning new things`
 - :mailbox: Visit my website `https://atharva-rai.vercel.app/`
 - :thinking: I’m currently open for a new `job opportunity`
