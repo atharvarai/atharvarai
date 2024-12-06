@@ -10,9 +10,8 @@ I am a final year CS student from India studying at VIT, Chennai. I have been pa
 
 - :school: Final year `CS student at VIT university`
 - :nerd_face: Always `learning new things`
-- :mailbox: Visit my website `https://atharva-rai.vercel.app/`
+- :mailbox: Contact me at `atharvarai78@gmail.com`
 - :thinking: I’m currently open for a new `job opportunity`
-- 👨‍💻 Currently learning `Machine Learning`
 - 📝 Solving `DSA` problems on  `LeetCode` 
 
 
